@@ -94,6 +94,110 @@ graph TD
 
 ---
 
+## 🤖 AI Agents & Tools
+
+<div align="center">
+
+### **🎭 The AI Agent Squad**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+#### 📝 **Content Creation Agent**
+```yaml
+Purpose: Generate compelling social content
+Tools: 
+  - 🔗 LinkedIn API Integration
+  - 🐦 Twitter API Integration
+  - 📱 Multi-platform Publishing
+Output: 
+  - Professional posts
+  - Awareness campaigns
+  - Promotional content
+```
+
+#### 📊 **Feedback Agent**
+```yaml
+Purpose: Collect & analyze feedback
+Tools:
+  - 📋 Google Forms API
+  - 📈 Analytics Dashboard
+  - 🎯 Custom Surveys
+Output:
+  - Automated forms
+  - Participation metrics
+  - Impact analysis
+```
+
+#### 💰 **Resource Agent**
+```yaml
+Purpose: Optimize budget & resources
+Tools:
+  - 🔍 Web Search API
+  - 💹 Price Comparison
+  - 📊 Cost Analytics
+Output:
+  - Cost estimates
+  - Vendor comparisons
+  - Resource optimization
+```
+
+</td>
+<td width="50%">
+
+#### 📋 **Volunteer Guidelines Agent**
+```yaml
+Purpose: Create volunteer documentation
+Tools:
+  - 📄 PDF Generator
+  - 💾 Supabase Storage
+  - 🎨 Document Designer
+Output:
+  - Interactive handbooks
+  - Safety guidelines
+  - Training materials
+```
+
+#### ⏰ **Reminder Agent**
+```yaml
+Purpose: Manage schedules & notifications
+Tools:
+  - 📅 Google Calendar API
+  - 📧 Notification Service
+  - ⏰ Smart Scheduling
+Output:
+  - Event reminders
+  - Milestone alerts
+  - Timeline management
+```
+
+#### 🏛️ **Permission Agent**
+```yaml
+Purpose: Handle government approvals
+Tools:
+  - 📧 Email Service
+  - 📄 Document Generator
+  - 🏛️ Gov Portal Integration
+Output:
+  - Permission letters
+  - Authority communications
+  - Compliance reports
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 Autonomous AI Workflow
+![Autonomous AI Workflow](https://github.com/user-attachments/assets/b89142fd-f2ef-465d-b956-056f1d7065c3)
+
+---
+
 ## 🚀 Tech Stack
 
 <div align="center">
