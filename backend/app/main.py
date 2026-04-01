@@ -2,8 +2,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(
-    title="Mhanayak API",
-    description="Agentic-AI based environmentl event deive managar.",
+    title="Mahanayak API",
+    description="Agentic-AI based environmental event drive manager.",
     version="0.1.0",
     docs_url="/docs",
     redoc_url="/redoc",
